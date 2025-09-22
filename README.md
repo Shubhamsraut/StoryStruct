@@ -7,6 +7,15 @@
 **StoryStruct** is a sleek and powerful **Streamlit application** designed for **Business Analysts** and **Product Teams**. It extracts **Epics**, **User Stories**, and **Acceptance Criteria** from `.docx` requirement documents, summarizes them with metrics, and provides filtering, search, and export options—all within a modern, responsive UI.  
 
 ---
+# 📄 StoryStruct  
+*A powerful Streamlit app for extracting User Stories and Acceptance Criteria from `.docx` documents.*
+
+---
+
+## 🌐 Live Demo  
+🚀 **Try it here:** [https://storystruct.streamlit.app](https://storystruct.streamlit.app)
+
+---
 
 ## ✨ Features  
 - 📂 **Upload Multiple Word Documents** (`.docx`) simultaneously.  
